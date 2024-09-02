@@ -1,0 +1,144 @@
+[
+  {
+    "menu": {
+      "home": "About Us",
+      "roadmap": "Road Map",
+      "impact": "Impact",
+      "patners": "Patners",
+      "faq": "Faq",
+      "team": "Team",
+      "login": "Login"
+    }
+  },
+  {
+    "heroSection": {
+      "title":"Tamil Nadu",
+      "title1":"Creating Change Makers Of Tomorrow With 21st",
+      "skill":"Century Skills",
+      "desc": "Nurture a culture of social innovation and build skills while inspiring young people to become transformative leaders.",
+      "signup": "Login",
+      "register":"Register"
+    }
+  },
+  {
+    "vedio":{
+      "reg":"How to register?"
+    }
+  },
+  {
+    "heroSection1": {
+      "title": "About Us",
+      "title1": "School Innovation Development Project(SIDP)",
+      "desc": "The School Innovation Development Project is being implemented by the Entrepreneurship Development and Innovation Institute in collaboration with the Department of School Education and the United Nations Children's Emergency Fund (UNICEF).",
+      "desc1":"The Entrepreneurship Development and Innovation Institute has been implementing the School Innovation Development Project since 2022. The scheme is working with various objectives, such as encouraging innovation and fostering an entrepreneurial culture among students in classes 9 to 12, studying in all government, government-aided and partially aided higher secondary schools. It aims at developing leadership qualities among students, identifying problems, and motivating them to solve these issues.",
+      "sub":"Entrepreneurship Development and Innovation Institute (EDII-TN)",
+      "desc2": "To inspire students to solve real life problems by using a simple design thinking process as a method to innovate, collaborate and obtain leadership cum entrepreneurship skills.",
+      "sub1":"Department of School Education",
+      "desc3": "To build the capacity of the teaching community to play a vital role in building an entrepreneurial, innovative ecosystem in schools and be mentors to the evolving minds.",
+      "sub2":"United Nations Children's Emergency Fund (UNICEF)",
+      "desc4":"The United Nations Children's Emergency Fund (UNICEF) was founded on December 11, 1946, by the United Nations General Assembly with the mission of providing food and healthcare to children in nations ruined by World War II. In 1953, it officially became a permanent institution within the United Nations. UNICEF operates in 155 countries worldwide, primarily focusing on improving community-level services to achieve its larger goal of child welfare and development. UNICEF also serves as a knowledge partner in the School Innovation Development Project."
+    }
+  },
+  {
+    "aboutSection": {
+      "title": "What Is UPSHIFT",
+      "desc": "UPSHIFT is a UNICEF global innovation for transferable skills building of adolescents and young people that is now in implementation in 45 countries. UPSHIFT is designed to build transferable skills and create opportunity, with a focus on the young people. UPSHIFT supports the development of skills for life and livelihood and supports youth to positively engage with their local communities as change-makers. [LEARN MORE ABOUT UPSHIFT ]",
+      "desc1":"With the goal of engaging and skilling more adolescents and young people, UNICEF Maldives, along with the Ministry of Education, National Institute of Education and Inqui-Lab Foundation embarked on the development of UNISOLVE."
+    }
+  },
+  {
+    "aboutSection1": {
+      "title": "UPSHIFT powered by ",
+      "title1": "UNISOLVE",
+      "desc": "UNISOLVE is a digital platform designed to facilitate UPSHIFT delivery through a school-based, teacher-facilitated blended learning model.",
+      "desc1":"UNISOLVE combines the advantages of distance learning opportunities and face-to-face activities to promote creativity and innovation among adolescents and young people. Designed with and for the education system keeping scalability in mind this specially designed platform, UNISOLVE, is a tool to skill students on social innovation and 21st century skills."
+    }
+  },
+  {
+    "aboutSection2": {
+      "title": "Maldives National Curriculum",
+      "title1": "UNISOLVE",
+      "desc": "The NCF alignes with UNISOLVE to promotes holistic approach to education, placing equal emphasis on the development of knowledge, understanding, skills, values and attitudes.",
+      "desc1":"The National Curriculum envisions the development of successful individuals who are motivated to explore and create knowledge, are confident and competent and have a firm belief in Islam, a strong sense of self and national identity and are Responsible and productive contributors to their own family, local community and the global society.",
+      "desc2":"It strives to develop a sense of value in The NCF and places great emphasis on encouraging children and young people to adopt deeply held values shared within our society."
+    }
+  },
+  {
+    "aboutSection3": {
+    "title": "Here Are A Few",
+    "title2": "Student Ideas",
+    "title1": "Emergency Watch for Children",
+    "desc": "To increase the safety of women and to prevent them from vulnerable attacks an Emergency Smart Watch is proposed. In case of any emergencies switch on the watch can be pressed which will give alert to the parents through message. The location can also be sent through the GPS module present in the watch proving timely support for women.",
+    "title3": "Glucose End Bottle Alarm",
+    "desc1": "The automatic glucose bottle alarm consists of a device mounted on the wooden stand where the glucose bottle is attached. When the glucose bottle is about to be emptied an alarm is given to alert the attendant and the nurse and also the message is also sent through the GSM module.",
+    "title4": "Illumination of Carrot Farming",
+    "desc2": "Carrot harvesting is usually done at early morning where farmers are vulnerable to wildlife attacks and suffers due to insufficient lighting. In order to overcome this issue, solar outdoor lights can be installed in the carrot farms that are equipped with a motion sensor to detect a movement. During harvesting the farm lights turns ON automatically. The system    also detects the wild animal’s intrusion and turns on the artificial fire flame and also plays the bee hum through the horn which is being prerecorded. The system also consist of IoT based Motor On/Off System with Overhead Tank Level.",
+    "title5": "Smart Helmet",
+    "desc3": "To prevent road accidents and to increase the awareness for a healthy practice a ‘Smart Helmet’ is proposed where the system consists of sensors connected to the helmet. Whenever the rider wears the helmet the sensor detect it and sends the signal to the ignition system through a RF module. The system also detects the consumption of alcohol and sends alert message if the rider have consumed alcohol and turns of the vehicle."
+  }
+},
+{
+  "impact": {
+  "title": "Engagement & Impact",
+  "desc": "TAMILNADU",
+  "desc1": "Institutions",
+  "desc2": "Teachers",
+  "desc3": "Student Teams",
+  "desc4": "Students",
+  "desc5": " Ideas"
+}
+},
+  {
+    "roadmap": {
+      "title": "Road Map",
+      "title1": "Four key phases of the program",
+      "registration": "Awareness & Registration",
+      "solving":"Problem Solving Journey",
+      "submission":"Mentoring and Recognition",
+      "incubation":"Incubation",
+      "desc":"Learners are inspired to be part of program and teachers register teams onto the platform.",
+      "desc1":"Learners are part of an interactive and gamified problem solving course by the end of which they solve a problem and submit the idea.",
+      "desc2":"Quality ideas are shortlisted and the student teams are mentored, recognized and awarded.",
+      "desc3":"Finalists are provided support to take their solution into the real world and implement it."
+    }
+  },
+  {
+    "team": {
+      "title": "Our Team",
+      "title1": "Meet Our Team",
+      "messageName1": "Aishath Shibana",
+      "messageDescription1":"21st Century is the century of innovation, development and ideation. when we say preparing students for life, it means putting greaterfocus on developing skills that are essential for modren workplace. therefore, I believe that UPSHIFT program can offer and develop these transferable skills and increase student's social engagement.It uses a methodology called human centered design which offers a more holistic and community-driven approach to problem-solving.It Starts with people and ends with innovative solutions that are tailor-made to suit their needs.When you understant the people you're trying to reach,design from their perspective, not only will you arive at unexpected answers, but you'll come up with ideas that they'll accept.These activities will help students to develop empathy, creativity, critical thinking, communication, civic engagement and entrepreneurship.",
+      "messageDesignation1":"Senior Curriculum Development Analyst.The National Institute of Education UPSHIFT Training coordinator",
+      "messageName2": "Abdulla Didi",
+      "messageDescription2":"UPSHIFT Powered by UNISOLVE is an amazing program that fasters creativity and critical thinking in students. It enables students to actively engage in identifying problems and finding practical, workable solutions through independent and experiential learning",
+      "messageDesignation2":"Principal at Dharumavantha School",
+      "messageName3": "Rinzy Ibrahim Waheed",
+      "messageDescription3":"UPSHIFT is a program that encourages creativity and innovation while enabling students to think out of the box and provide experiences beyond the classroom environment.not only this programme teaches the use of latest technology to develop 21st century skills but also helps students to develop empathy and sympathy towards others. All in all, it is an all-around development of the students that enables them to achieve the objectives of the national curriculum faster",
+      "messageDesignation3":"Principal at Hiriya School",
+      "messageName4": "Fathimath Musthafa",
+      "messageDescription4":"The main objective of UPSHIFT is to take the child out of the conventional classroom environment to help them develop their mind and improve thinking skills. This program serves to equip and train students with the modern technology and skills required to survive and conquer the challenges they face everyday. While remaining empathetic towards everyone.Long story short, its focus is to develop the students in all aspects, so that they can attain the objectives of the national curriculum at a faster pace and will be ready to face the different challenges of life",
+      "messageDesignation4":"Teacher at Hiriya School"
+    }
+  },
+  {
+    "partner": {
+      "title": "Our Partners"
+    }
+  },
+  {
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "question1": " What is the School Innovation Development Project?",
+      "answer1": "To promote a culture of innovation and creative problem-solving among school students, the Entrepreneurship Development, and Innovation Institute (EDII-TN), in collaboration with the Department of School Education (DoSE) and the United Nations International Children's Emergency Fund (UNICEF), is implementing the School Innovation Development Project (SIDP).",
+      "answer2":"The objective of the program is to inspire students to solve problems by using a simple design thinking process as a method for innovation, collaboration, and acquiring 21st-century skills and leadership skills.",
+      "question2": " Which organization implements School Innovation Development Project?",
+      "answer3":"Entrepreneurship Development and Innovation Institute (EDII-TN), in collaboration with the Department of School Education (DoSE) and the United Nations International Children's Emergency Fund (UNICEF), is implementing the School Innovation Development Project (SIDP).",
+      "question3": "Who can participate in this program",
+      "answer4" : "Students from all government, government-aided, and partially-aided schools (both high school and higher secondary school) are eligible to participate in the program. Students from 9th to 12th standard can take part in this program. If you fall under this category but your school is not a part of SIDP, please contact us via email at sidp22-23@editn.in",
+      "question4": "  What are the advantages and significance of providing 21st-century skills training to students?",
+      "answer5": "As students engage with UNICEF's video-based curriculum of 21st-century skills, they not only acquire foundational entrepreneurship skills but also develop other qualities such as problem-solving, innovation, and leadership skills throughout their educational journey.",
+      "question5": "Do students' innovations receive adequate protection?",
+      "answer6": "By creating awareness among students about Intellectual Property Rights (IPR), students can register and protect their innovations."
+    }
+  }
+]
